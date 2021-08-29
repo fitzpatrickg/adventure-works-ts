@@ -1,4 +1,7 @@
 import { Sequelize } from 'sequelize';
+import Department from '../model/Department';
+import Employee from '../model/Employee';
+import EmployeeDepartmentHistory from '../model/EmployeeDepartmentHistory';
 
 const db = new Sequelize(
   'AdventureWorks2017',

@@ -22,6 +22,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "sequelize": "^6.6.5",
+    "sequelize-auto": "^0.8.4",
     "tedious": "^12.0.0"
   }
 }
